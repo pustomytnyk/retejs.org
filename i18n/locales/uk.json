@@ -13,7 +13,7 @@
   "openNewTab": "Відкрити в новій вкладці",
   "main": {
     "title": "JavaScript фреймворк для візуального програмування",
-    "description": "Адаптивний TypeScript-first фреймворк для створення орієентованих на обробку редакторів вузлів",
+    "description": "Адаптивний TypeScript-first фреймворк для створення орієнтованих на обробку редакторів вузлів",
     "highlights": {
       "ts": {
         "title": "TypeScript-first",
